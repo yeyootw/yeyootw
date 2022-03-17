@@ -3,8 +3,9 @@
 <h1 align="center">✨ I came, I saw, I conquered ✨</h1>
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-j.nicolas.milli@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](j.nicolas.milli@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-nicolas_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
+📫 [![Gmail Badge](https://img.shields.io/badge/-j.nicolas.milli@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:j.nicolas.milli@gmail.com)](j.nicolas.milli@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-yeyootw_976468-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://t.me/yeyootw_976468)](https://t.me/yeyootw_976468)
+[![Discord Badge](https://img.shields.io/badge/-yeyootw#6680-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white)]
 
 ## Skills
 <table>
