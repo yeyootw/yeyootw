@@ -2,10 +2,6 @@
 
 <h1 align="center">✨ I came, I saw, I conquered ✨</h1>
 
-## Contact me : 
-[![Gmail Badge](https://img.shields.io/badge/-j.nicolas.milli@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:j.nicolas.milli@gmail.com)](j.nicolas.milli@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-yeyootw_976468-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/yeyootw_976468)](https://t.me/yeyootw_976468)
-
 ## Skills
 <table>
    <tr>
@@ -24,11 +20,21 @@
     </tr>
 </table>
 
-<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeyootw&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=tokyonight)
-![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyootw&layout=default&theme=tokyonight&hide=html&hide_border=true&card_width=330)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeyootw&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeyootw&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeyootw&&show_icons=true&theme=github_dark)
 
-<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align='center'>
+  <a href="https://github.com/yeyootw?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/yeyootw"/>
+  </a>
+  <a href="https://github.com/yeyootw?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/yeyootw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+</p>
 
+## Contact me : 
+[![Gmail Badge](https://img.shields.io/badge/-j.nicolas.milli@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:j.nicolas.milli@gmail.com)](j.nicolas.milli@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-yeyootw_976468-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/yeyootw_976468)](https://t.me/yeyootw_976468)
