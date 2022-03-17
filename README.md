@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="center">✨ I came, I saw, I conquered ✨</h1>
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](asthiseta@gmail.com)
