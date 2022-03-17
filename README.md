@@ -18,7 +18,7 @@
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="golang" height="60"></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="golang" height="60"></td>
         <td><img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.svg" alt="golang" height="60"></td>
-        <td><img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/12/pancakeswap-logo-freelogovectors.net_.png" alt="golang" height="60"></td>
+        <td><img src="https://www.pngall.com/wp-content/uploads/10/PancakeSwap-Crypto-Logo-PNG.png" alt="golang" height="60"></td>
     </tr>
 </table>
 
