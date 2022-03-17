@@ -1,18 +1,20 @@
 <!--suppress HtmlDeprecatedAttribute -->
+
 # I came, I saw, I conquered
+
 ## Skills
 <table>
    <tr>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" alt="android" height="100"></td>
-        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" alt="golang" height="100"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="python" height="100"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="java" height="100"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="kotlin" height="100"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="golang" height="100"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="golang" height="100"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="golang" height="100"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" height="100"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" height="100"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" alt="android" height="60"></td>
+        <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" alt="golang" height="60"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="python" height="60"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="java" height="60"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="kotlin" height="60"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="golang" height="60"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="golang" height="60"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="golang" height="60"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" height="60"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" height="60"></td>
     </tr>
 </table>
 
