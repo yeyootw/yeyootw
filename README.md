@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-<img align='right' src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/cfh.gif?raw=true" width="210" alt="giphy"
+<img align='right' src="https://raw.githubusercontent.com/Aleksey-Voko/Aleksey-Voko/master/assets/cfh.gif?raw=true" width="210" alt="giphy">
 
 # I came, I saw, I conquered
 ## Skills
