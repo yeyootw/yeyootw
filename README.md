@@ -17,7 +17,7 @@
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="golang" height="60"></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="golang" height="60"></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="golang" height="60"></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" height="60"></td>
+        <td><img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.svg" alt="golang" height="60"></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" height="60"></td>
     </tr>
 </table>
