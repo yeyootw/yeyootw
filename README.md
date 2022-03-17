@@ -4,7 +4,7 @@
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-j.nicolas.milli@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](j.nicolas.milli@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
+[![Instagram Badge](https://img.shields.io/badge/-nicolas_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
 
 ## Skills
 <table>
