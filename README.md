@@ -22,5 +22,5 @@
     </tr>
 </table>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeyootw&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyootw&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeyootw&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=tokyonight)
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyootw&layout=default&theme=tokyonight&hide=html&hide_border=true&card_width=330)
