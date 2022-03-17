@@ -4,8 +4,7 @@
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-j.nicolas.milli@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:j.nicolas.milli@gmail.com)](j.nicolas.milli@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-yeyootw_976468-E4405F?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/yeyootw_976468)](https://t.me/yeyootw_976468)
-[![Discord Badge](https://img.shields.io/badge/-yeyootw#6680-E4405F?style=flat-roundedrectangle&logo=discord&logoColor=white)]
+[![Telegram Badge](https://img.shields.io/badge/-yeyootw_976468-blue?style=flat-roundedrectangle&logo=telegram&logoColor=white&link=https://t.me/yeyootw_976468)](https://t.me/yeyootw_976468)
 
 ## Skills
 <table>
